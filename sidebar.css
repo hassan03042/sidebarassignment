@@ -1,0 +1,25 @@
+@font-face {
+    font-family: ff;
+    src: url(fontscss/poppins.ttf.zip)
+}
+
+
+*{
+    background-color: rgb(227, 233, 243);
+}
+
+
+#thms {
+    font-size: 300%;
+   font-family: ff; 
+   text-decoration:underline;
+   text-decoration-color: rgb(60, 165, 130);
+   text-transform: uppercase;
+   font-stretch:ultra-expanded;
+   line-height:2em ;
+   word-spacing: 6px;
+}
+
+*:hover{
+    background-color: rgb(117, 117, 90);
+}
